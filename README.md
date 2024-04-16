@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarimadede
 - 👀 I’m interested in web.developement
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on builing websites
 - 📫 How to reach me ...
 - 😄 Pronouns: sarima
 - ⚡ Fun fact🥇,
