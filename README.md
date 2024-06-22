@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sarimadede
-- 👀 I’m interested in web.developement
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on builing websites
-- 📫 How to reach me ...
-- 😄 Pronouns: sarima
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning html,css and javascript
+- 💞️ I’m looking to collaborate with developer who build websites
+- 📫 How to reach me ..
+- 😄 Pronouns: saree-mah
 - ⚡ Fun fact🥇,
 
 <!---
